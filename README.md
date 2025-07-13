@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyashree Mallarapu
 
-🎓 AI & ML Undergrad | 👩‍💻 Applied AI Developer | 🧠 Passionate about Computer Vision & Generative Models
+🎓 AI & ML Undergrad | Applied AI Developer | Passionate about Computer Vision & Generative Models
 
 Welcome to my GitHub! I'm an aspiring AI/ML engineer currently pursuing a B.E. in Artificial Intelligence & Machine Learning from PES Institute of Technology and Management (VTU), maintaining a CGPA of 8.85. My interests lie in transforming innovative research into real-world applications — particularly in computer vision, generative AI, and NLP.
 
@@ -18,7 +18,6 @@ Welcome to my GitHub! I'm an aspiring AI/ML engineer currently pursuing a B.E. i
 - 🔍 Built OCR pipelines using PaddleOCR and EasyOCR to extract text from legal/financial documents (90% accuracy).
 - 📊 Fine-tuned image classification models (DenseNet, VGG19), boosting accuracy by 20%.
 - 🎞️ Created text-to-video and image generation pipelines with deep learning, turning prompts into high-quality media.
-
 ---
 
 ## 🚀 Featured Projects
