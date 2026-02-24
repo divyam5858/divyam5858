@@ -31,7 +31,7 @@ Here are a few of my AI-driven projects — most deployed using **Streamlit** or
 - 📰 [**Political Bias Analyzer**](https://political-bias-detection-app.streamlit.app)  
   Classifies political bias (Left/Right/Center), flags fake news, and compares sources — all in one clean NLP app.
 
-- 🧠 [**NeuroSense – Early Detection of Neurodegenerative Diseases**](https://huggingface.co/spaces/divyashree-03/NeuroSense)  
+- 🧠 [**NeuroSense – Early Detection of Neurodegenerative Diseases**](https://urbanupscaleproperties.com/neurosense/)  
   AI-powered screening tool that predicts the risk of conditions like Alzheimer's and Parkinson’s using lifestyle, clinical, and genetic inputs.  
   Offers explainable results and tracks progression to support early intervention and better patient management.
 
