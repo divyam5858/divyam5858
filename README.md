@@ -101,11 +101,4 @@ I focus on building practical AI systems and deploying them as real working appl
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyam5858\&show_icons=true\&theme=radical)
-
----
-
 ⭐ Always interested in building real AI applications and deployment-ready software.
