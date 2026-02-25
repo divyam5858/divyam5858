@@ -1,101 +1,111 @@
-# Divyashree Mallarapu
+# 👋 Hi, I'm Divyashree Mallarapu
 
-Aspiring AI and Machine Learning Engineer with hands-on experience building and deploying machine learning applications. Worked on computer vision, NLP, and generative AI projects using Python frameworks. Experience with Git-based workflows, application deployment, and cloud hosting platforms. Currently undergoing training in JavaScript and MERN-based development.
+🎓 Aspiring AI & Machine Learning Engineer | Software Developer
+💡 Interested in Computer Vision, NLP, Generative AI, and deployment-ready applications
+
+Currently pursuing B.E. in Artificial Intelligence & Machine Learning (CGPA 8.85).
+I focus on building practical AI systems and deploying them as real working applications. I am also undergoing training in JavaScript and MERN-based development.
+
+![Profile Views](https://komarev.com/ghpvc/?username=divyam5858\&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/divyam5858?label=Followers\&style=social)
 
 ---
 
-## Experience
+## 💼 Experience
 
 **AI Engineer Intern — ResoluteAI Software Pvt Ltd (Remote)**
-Aug 2024 – Feb 2025
+*Aug 2024 – Feb 2025*
 
-* Developed YOLO-based object detection applications and deployed real-time AI systems
-* Built OCR pipelines using PaddleOCR and EasyOCR for document processing
-* Worked on image classification models and performance improvement
-* Built AI web applications using Streamlit and deployment workflows
+* Developed YOLO-based real-time object detection systems
+* Built OCR pipelines for document extraction
+* Worked on image classification improvements
+* Built and deployed AI applications using Streamlit
 
 **Enterprise Fullstack Development Training — MERN Program, Dhee Coding Lab (Ongoing)**
 
 * Training in JavaScript, full-stack architecture, and deployment workflows
-* Practicing Git-based collaboration and project structuring
+* Practicing Git collaboration and structured development
 
 ---
 
-## Selected Projects
+## 🚀 Selected AI Projects
 
-**NeuroSense — Healthcare AI Platform**
-https://urbanupscaleproperties.com/neurosense/
-Machine learning system for early neurodegenerative disease prediction with deployed web application.
+* 🧠 [**NeuroSense – Healthcare AI Platform**](https://urbanupscaleproperties.com/neurosense/)
+* 💬 [**RAG Document Chatbot**](https://pdf-query-answer.streamlit.app)
+* 🖼️ [**Text-to-Image Generator**](https://aiimagegenerater.streamlit.app)
+* 📰 [**Political Bias Detection App**](https://political-bias-detection-app.streamlit.app)
+* 🌫️ [**Air Quality Index Predictor**](https://airqualityindex-predictor.streamlit.app/)
+* 🧪 Industrial Defect Detection using YOLO
+* 🛠️ Predictive Maintenance using Machine Learning
 
-**RAG Document Chatbot**
-https://pdf-query-answer.streamlit.app
-Retrieval-based document question-answering system using embeddings and language models.
-
-**Text-to-Image Generator**
-https://aiimagegenerater.streamlit.app
-Diffusion-based generative AI model for text-driven image generation.
-
-**Political Bias Detection App**
-https://political-bias-detection-app.streamlit.app
-NLP-based classification system for detecting political bias in news.
-
-**Air Quality Index Predictor**
-https://airqualityindex-predictor.streamlit.app
-Regression-based machine learning model with visualization dashboard.
-
-**Industrial Defect Detection System**
-YOLO-based automated inspection system for manufacturing defects.
-
-**Predictive Maintenance System**
-Machine learning models predicting machinery failure using historical data.
-
-Additional projects and source code available in repositories and portfolio:
-https://divyashreemallarapu.streamlit.app
+👉 Explore full projects: [Portfolio Website](https://divyashreemallarapu.streamlit.app)
 
 ---
 
-## Web Development Projects
+## 🌐 Web Development Projects
 
-**EatFit Blog Replica**
-https://eatfitblog.vercel.app
-
-**Dhee Coding Lab Homepage Replica**
-https://dcl-clone.vercel.app
+* 🥗 [EatFit Blog Replica](https://eatfitblog.vercel.app)
+* 🏫 [Dhee Coding Lab Homepage Replica](https://dcl-clone.vercel.app)
 
 ---
 
-## Publication
+## 📚 Published Author
 
-**Kickstart to Compiler Design Fundamentals (Co-Author, 2025)**
+📘 **Kickstart to Compiler Design Fundamentals** (Co-Author, 2025)
 
-Purchase links:
+🛒 Purchase Links:
 
-https://orangeava.com/products/kickstart-compiler-design-fundamentals
-https://orangeava.in/products/kickstart-compiler-design-fundamentals
-https://shorturl.at/xUHdt
-https://shorturl.at/zqMaj
-
----
-
-## Technical Skills
-
-**Programming:** Python, JavaScript, SQL, C, HTML, CSS
-
-**Machine Learning & AI:** Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI
-
-**Libraries & Frameworks:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Hugging Face
-
-**Deployment & Tools:** Streamlit, Gradio, Flask, Git, GitHub
-
-**Cloud Exposure:** Azure basics, cloud deployment platforms
+* 👉 [International Buyers (OrangeAVA)](https://orangeava.com/products/kickstart-compiler-design-fundamentals)
+* 👉 [Indian Buyers (OrangeAVA)](https://orangeava.in/products/kickstart-compiler-design-fundamentals)
+* 👉 [Amazon International](https://shorturl.at/xUHdt)
+* 👉 [Amazon India](https://shorturl.at/zqMaj)
 
 ---
 
-## Links
+## 🛠️ Technical Skills
 
-LinkedIn: https://linkedin.com/in/divyashree-mallarapu
-GitHub: https://github.com/divyam5858
-Portfolio: https://divyashreemallarapu.streamlit.app
-Instagram: https://instagram.com/divyashree_mallarapu
-Twitter: https://twitter.com/divya_mallarapu
-Email: [mdivya0212@gmail.com](mailto:mdivya0212@gmail.com)
+**Programming:** Python • JavaScript • SQL • C • HTML • CSS
+
+**Machine Learning:** Machine Learning • Deep Learning • Computer Vision • NLP • Generative AI
+
+**Frameworks:** TensorFlow • PyTorch • Keras • scikit-learn • OpenCV • Hugging Face
+
+**Deployment & Tools:** Streamlit • Gradio • Flask • Git • GitHub
+
+**Cloud Exposure:** Azure basics • deployment platforms
+
+---
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://divyashreemallarapu.streamlit.app/" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/domain.png" height="30" width="40" />
+ </a>
+  <a href="https://twitter.com/divya_mallarapu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/divyashree-mallarapu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/divyashree_mallarapu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/divyam5858" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:mdivya0212@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/new-post.png" height="30" width="40" />
+  </a>
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyam5858\&show_icons=true\&theme=radical)
+
+---
+
+⭐ Always interested in building real AI applications and deployment-ready software.
