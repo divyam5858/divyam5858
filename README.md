@@ -1,42 +1,43 @@
 # 👋 Hi, I'm Divyashree Mallarapu
 
-🎓 Aspiring AI & Machine Learning Engineer | Software Developer
-💡 Interested in Computer Vision, NLP, Generative AI, and deployment-ready applications
+🎓 Aspiring AI & Machine Learning Engineer | MERN Stack Developer | Software Developer  
 
-Currently pursuing B.E. in Artificial Intelligence & Machine Learning (CGPA 8.85).
-I focus on building practical AI systems and deploying them as real working applications. I am also undergoing training in JavaScript and MERN-based development.
+I am a B.E. graduate in Artificial Intelligence & Machine Learning from PES Institute of Technology and Management.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyam5858\&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/divyam5858?label=Followers\&style=social)
+I focus on building practical AI systems and deploying them as real-world applications. I am also undergoing enterprise-level training in MERN Stack development.
+
+![Profile Views](https://komarev.com/ghpvc/?username=divyam5858&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/divyam5858?label=Followers&style=social)
 
 ---
 
 ## 💼 Experience
 
-**AI Engineer Intern — ResoluteAI Software Pvt Ltd (Remote)**
+### AI Engineer Intern — ResoluteAI Software Pvt Ltd (Remote)
 *Aug 2024 – Feb 2025*
 
-* Developed YOLO-based real-time object detection systems
-* Built OCR pipelines for document extraction
-* Worked on image classification improvements
-* Built and deployed AI applications using Streamlit
+- Developed YOLO-based real-time object detection systems
+- Built OCR pipelines for document extraction
+- Worked on image classification improvements
+- Built and deployed AI applications using Streamlit
 
-**Enterprise Fullstack Development Training — MERN Program, Dhee Coding Lab (Ongoing)**
+### Enterprise Fullstack Development Training — MERN Program, Dhee Coding Lab (Ongoing)
 
-* Training in JavaScript, full-stack architecture, and deployment workflows
-* Practicing Git collaboration and structured development
+- Training in MERN stack architecture and deployment workflows
+- Practicing Git collaboration and structured development
+- Undergoing enterprise-level full-stack development training
 
 ---
 
 ## 🚀 Selected AI Projects
 
-* 🧠 [**NeuroSense – Healthcare AI Platform**](https://urbanupscaleproperties.com/neurosense/)
-* 💬 [**RAG Document Chatbot**](https://pdf-query-answer.streamlit.app)
-* 🖼️ [**Text-to-Image Generator**](https://aiimagegenerater.streamlit.app)
-* 📰 [**Political Bias Detection App**](https://political-bias-detection-app.streamlit.app)
-* 🌫️ [**Air Quality Index Predictor**](https://airqualityindex-predictor.streamlit.app/)
-* 🧪 Industrial Defect Detection using YOLO
-* 🛠️ Predictive Maintenance using Machine Learning
+- 🧠 [**NeuroSense – Healthcare AI Platform**](https://urbanupscaleproperties.com/neurosense/)
+- 💬 [**RAG Document Chatbot**](https://pdf-query-answer.streamlit.app)
+- 🖼️ [**Text-to-Image Generator**](https://aiimagegenerater.streamlit.app)
+- 📰 [**Political Bias Detection App**](https://political-bias-detection-app.streamlit.app)
+- 🌫️ [**Air Quality Index Predictor**](https://airqualityindex-predictor.streamlit.app/)
+- 🧪 Industrial Defect Detection using YOLO
+- 🛠️ Predictive Maintenance using Machine Learning
 
 👉 Explore full projects: [Portfolio Website](https://divyashreemallarapu.streamlit.app)
 
@@ -44,61 +45,116 @@ I focus on building practical AI systems and deploying them as real working appl
 
 ## 🌐 Web Development Projects
 
-* 🥗 [EatFit Blog Replica](https://eatfitblog.vercel.app)
-* 🏫 [Dhee Coding Lab Homepage Replica](https://dcl-clone.vercel.app)
+### 🥗 [EatFit Blog Replica](https://eatfitblog.vercel.app)
+
+Frontend replica project inspired by EatFit blog UI and responsive layout design.
+
+### 🏫 [Dhee Coding Lab Homepage Replica](https://dcl-clone.vercel.app)
+
+Pixel-perfect responsive homepage clone built using HTML, CSS, and modern UI practices.
+
+### 🏥 Appointment Booking System (MERN Stack)
+
+- Developed a full-stack healthcare appointment platform using the MERN Stack
+- Integrated REST APIs, Razorpay, MongoDB Atlas, and cloud deployment
+- Built scalable real-world appointment booking workflows
+- Implemented authentication, appointment scheduling, and responsive UI
+
+🔗 **Live Demo:**  
+https://divyam5858.github.io/Appointment
+
+🔗 **GitHub Repository:**  
+https://github.com/divyam5858/Appointment
 
 ---
 
 ## 📚 Published Author
 
-📘 **Kickstart to Compiler Design Fundamentals** (Co-Author, 2025)
+### 📘 Kickstart to Compiler Design Fundamentals
+*(Co-Author, 2025)*
+
+A beginner-friendly guide covering compiler design fundamentals, lexical analysis, parsing techniques, syntax-directed translation, and compiler optimization concepts.
 
 🛒 Purchase Links:
 
-* 👉 [International Buyers (OrangeAVA)](https://orangeava.com/products/kickstart-compiler-design-fundamentals)
-* 👉 [Indian Buyers (OrangeAVA)](https://orangeava.in/products/kickstart-compiler-design-fundamentals)
-* 👉 [Amazon International](https://shorturl.at/xUHdt)
-* 👉 [Amazon India](https://shorturl.at/zqMaj)
+- 👉 [International Buyers (OrangeAVA)](https://orangeava.com/products/kickstart-compiler-design-fundamentals)
+- 👉 [Indian Buyers (OrangeAVA)](https://orangeava.in/products/kickstart-compiler-design-fundamentals)
+- 👉 [Amazon International](https://shorturl.at/xUHdt)
+- 👉 [Amazon India](https://shorturl.at/zqMaj)
+
+---
+
+### 📗 Kickstart Modern Data Structures and Algorithms
+*Paperback – 27 March 2026*
+
+A practical and beginner-friendly guide covering modern Data Structures and Algorithms with implementation-focused learning and industry-relevant approaches.
+
+🛒 Purchase Links:
+
+- 👉 [Amazon India](https://www.amazon.in/Kickstart-Modern-Data-Structures-Algorithms/dp/934988738X/)
+- 👉 [OrangeAVA International](https://orangeava.com/products/kickstart-modern-data-structures-and-algorithms?variant=47710024401114)
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python • JavaScript • SQL • C • HTML • CSS
+### Programming Languages
+Python • JavaScript • HTML • CSS
 
-**Machine Learning:** Machine Learning • Deep Learning • Computer Vision • NLP • Generative AI
+### Database
+MongoDB
 
-**Frameworks:** TensorFlow • PyTorch • Keras • scikit-learn • OpenCV • Hugging Face
+### Web Development
+MERN Stack • React.js • Node.js • Express.js
 
-**Deployment & Tools:** Streamlit • Gradio • Flask • Git • GitHub
+### Machine Learning
+Machine Learning • Deep Learning • Computer Vision • NLP • Generative AI
 
-**Cloud Exposure:** Azure basics • deployment platforms
+### Frameworks & Libraries
+TensorFlow • PyTorch • Keras • scikit-learn • OpenCV • Hugging Face
+
+### Deployment & Tools
+Streamlit • Gradio • Flask • Vercel • Git • GitHub
+
+### Cloud Exposure
+Cloud Basics • Deployment Platforms • Deployment Fundamentals
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://divyashreemallarapu.streamlit.app/" target="_blank">
+
+<a href="https://divyashreemallarapu.streamlit.app/" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/domain.png" height="30" width="40" />
- </a>
-  <a href="https://twitter.com/divya_mallarapu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/divyashree-mallarapu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/divyashree_mallarapu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://github.com/divyam5858" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:mdivya0212@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/new-post.png" height="30" width="40" />
-  </a>
+</a>
+
+<a href="https://linkedin.com/in/divyashree-mallarapu" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://github.com/divyam5858" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/divya_mallarapu" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/divyashree_mallarapu" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://amazon.com/author/divyashree-mallarapu" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/amazon.png" height="30" width="40" />
+</a>
+
+<a href="mailto:mdivya0212@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/new-post.png" height="30" width="40" />
+</a>
 
 </p>
 
 ---
+
 ⭐ Always interested in building real AI applications and deployment-ready software.
