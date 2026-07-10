@@ -2,12 +2,15 @@
 
 🎓 Aspiring AI & Machine Learning Engineer | MERN Stack Developer | Software Developer  
 
-I am a B.E. graduate in Artificial Intelligence & Machine Learning from PES Institute of Technology and Management.  
+I am a B.E. in Artificial Intelligence & Machine Learning student graduating in 2026 from PES Institute of Technology and Management.  
 
 I focus on building practical AI systems and deploying them as real-world applications. I am also undergoing enterprise-level training in MERN Stack development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divyam5858&color=brightgreen)
 ![Followers](https://img.shields.io/github/followers/divyam5858?label=Followers&style=social)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★%20Problem%20Solving-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/divyamallarapu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Divyashree-Mallarapu/)
 
 ---
 
@@ -99,7 +102,10 @@ A practical and beginner-friendly guide covering modern Data Structures and Algo
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-Python • JavaScript • HTML • CSS
+JavaScript • Python
+
+### Web Technology
+• HTML • CSS • JavaScript
 
 ### Database
 MongoDB
@@ -121,6 +127,19 @@ Cloud Basics • Deployment Platforms • Deployment Fundamentals
 
 ---
 
+---
+
+## 🏆 Coding Profiles
+
+- ⭐ **HackerRank:** 5★ Problem Solving
+- 💻 **LeetCode:** Active DSA Practice (JavaScript)
+
+🔗 **HackerRank:** https://www.hackerrank.com/profile/divyamallarapu
+
+🔗 **LeetCode:** https://leetcode.com/u/Divyashree-Mallarapu/
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="left">
@@ -135,6 +154,14 @@ Cloud Basics • Deployment Platforms • Deployment Fundamentals
 
 <a href="https://github.com/divyam5858" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/divyamallarapu" target="_blank">
+  <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Divyashree-Mallarapu/" target="_blank">
+  <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="30" width="40" />
 </a>
 
 <a href="https://twitter.com/divya_mallarapu" target="_blank">
