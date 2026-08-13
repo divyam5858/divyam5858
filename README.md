@@ -42,7 +42,7 @@ I focus on building practical AI systems and deploying them as real-world applic
 - 🧪 Industrial Defect Detection using YOLO
 - 🛠️ Predictive Maintenance using Machine Learning
 
-👉 Explore full projects: [Portfolio Website](https://divyashreemallarapu.streamlit.app)
+👉 Explore full projects: [Portfolio Website](https://divyashree-mallarapu.netlify.app/)
 
 ---
 
@@ -144,7 +144,7 @@ Cloud Basics • Deployment Platforms • Deployment Fundamentals
 
 <p align="left">
 
-<a href="https://divyashreemallarapu.streamlit.app/" target="_blank">
+<a href="https://divyashree-mallarapu.netlify.app/" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/domain.png" height="30" width="40" />
 </a>
 
