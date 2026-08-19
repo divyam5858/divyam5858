@@ -39,6 +39,7 @@ I focus on building practical AI systems and deploying them as real-world applic
 - 🖼️ [**Text-to-Image Generator**](https://aiimagegenerater.streamlit.app)
 - 📰 [**Political Bias Detection App**](https://political-bias-detection-app.streamlit.app)
 - 🌫️ [**Air Quality Index Predictor**](https://airqualityindex-predictor.streamlit.app/)
+- 🌫️ [**Appointment**](https://appointment-frontend-delta.vercel.app/)
 - 🧪 Industrial Defect Detection using YOLO
 - 🛠️ Predictive Maintenance using Machine Learning
 
