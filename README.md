@@ -65,7 +65,7 @@ Pixel-perfect responsive homepage clone built using HTML, CSS, and modern UI pra
 - Implemented authentication, appointment scheduling, and responsive UI
 
 🔗 **Live Demo:**  
-https://divyam5858.github.io/Appointment
+https://appointment-frontend-delta.vercel.app
 
 🔗 **GitHub Repository:**  
 https://github.com/divyam5858/Appointment
